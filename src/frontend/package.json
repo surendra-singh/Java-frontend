@@ -1,0 +1,14 @@
+{
+    "name": "java-frontend",
+    "version": "1.0.0",
+    "description": "An example module to illustrate the usage of a package.json",
+    "repository": {},
+    "devDependencies": {
+        "bower": "^1.7.9",
+        "grunt": "~0.4.5",
+        "grunt-cli": "^1.2.0",
+        "grunt-typescript": "*",
+        "grunt-bower-installer": "*"
+    },
+    "license": "MIT"
+}

@@ -1,0 +1,16 @@
+{
+    "name": "java-frontend",
+    "authors": ["surendra.singh <surendra.nmc@gmail.com>"],
+    "description": "Java Application using maven front-end plugin",
+    "dependencies": {
+        "bootstrap": "~3.3.5",
+        "angular": "1.4.3"
+    },
+    "exportsOverride": {
+        "bootstrap": {
+            "js": "dist/js/bootstrap.js",
+            "css": "dist/css/*.*",
+            "fonts": "dist/fonts/*.*"
+        }
+    }
+}
