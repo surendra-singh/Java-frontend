@@ -1,4 +1,5 @@
 .classpath
 .project
+target
 src/frontend/bower_components
 src/frontend/node_modules
